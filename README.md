@@ -34,3 +34,7 @@ from joined
 group by store
 having count(store)>400;
 order by store;
+
+is it updated 
+
+check again
